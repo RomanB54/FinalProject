@@ -1,0 +1,1 @@
+import{j as e}from"./index-wKudUIDS.js";import{H as r}from"./Header-BjBrTraJ.js";const o=()=>e.jsxs(e.Fragment,{children:[e.jsx(r,{text:"About Whether APP",size:1,className:"header"}),e.jsx("div",{className:"about-block",children:"The project was developed during JAVASCRIPT BASIC course on OTUS platform"})]});export{o as About,o as default};
